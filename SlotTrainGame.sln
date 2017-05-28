@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotTrainGame", "Assembly-CSharp-firstpass.csproj", "{695B3601-C2DE-6DC2-DAA4-93E375580962}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotTrainGame", "Assembly-CSharp.csproj", "{2E02E6A4-C27B-512F-C379-407C3CCBB272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotTrainGame", "Assembly-CSharp-Editor.csproj", "{8B1AD9BA-8724-EE4E-5852-72848844ECDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{695B3601-C2DE-6DC2-DAA4-93E375580962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695B3601-C2DE-6DC2-DAA4-93E375580962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695B3601-C2DE-6DC2-DAA4-93E375580962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695B3601-C2DE-6DC2-DAA4-93E375580962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E02E6A4-C27B-512F-C379-407C3CCBB272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E02E6A4-C27B-512F-C379-407C3CCBB272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E02E6A4-C27B-512F-C379-407C3CCBB272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E02E6A4-C27B-512F-C379-407C3CCBB272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1AD9BA-8724-EE4E-5852-72848844ECDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1AD9BA-8724-EE4E-5852-72848844ECDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1AD9BA-8724-EE4E-5852-72848844ECDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1AD9BA-8724-EE4E-5852-72848844ECDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
